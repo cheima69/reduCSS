@@ -1,0 +1,56 @@
+header{
+    display: block;
+     background-image: url(image-header.png);
+     background-repeat: no-repeat;
+    background-size: cover;
+    height: 130vh;
+    font-family: white;
+    color: white;
+    a{text-decoration:none;
+      color: white;}
+        
+
+    
+
+nav{
+    padding: 24px;
+    
+    
+    
+}
+
+li{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    display: inline-block;
+    padding-right: 15px;
+    font-family: ;
+}
+
+ul{
+    display: inline-block;
+    float: right;
+}
+
+
+
+
+  div{width: 500px;
+        margin: auto;}
+
+        .button{
+            background-color: black;
+            padding: 15px 15px;
+            border-radius: 10px;
+
+        }
+        
+        .second{ 
+            background-color: white;
+            color: black;
+
+
+        }
+
+       
