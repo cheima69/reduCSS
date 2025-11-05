@@ -1,3 +1,22 @@
+body{
+      background-color: black;
+      color: white;
+     font-family: "DM Sans", sans-serif;
+
+}
+
+
+h1{
+    font-size: 50px;
+    strong{
+        font-size: 100px;
+    }
+}
+
+
+
+
+
 header{
     display: block;
      background-image: url(image-header.png);
@@ -6,8 +25,13 @@ header{
     height: 130vh;
     font-family: white;
     color: white;
+        font-family: "DM Sans", sans-serif;
     a{text-decoration:none;
-      color: white;}
+      color: white;
+    }
+     
+    }
+ 
         
 
     
@@ -41,7 +65,7 @@ ul{
 
         .button{
             background-color: black;
-            padding: 15px 15px;
+            padding: 10px 50px;
             border-radius: 10px;
 
         }
@@ -49,8 +73,45 @@ ul{
         .second{ 
             background-color: white;
             color: black;
+            padding: 15px 50px;
+            border-radius: 15px;
 
 
         }
+
+        h1{
+            font-size: 50px;
+            line-height: 95%;
+            
+            
+            
+            
+        }
+
+        h2{
+            font-size: 40px;
+            margin: 0%;
+            line-height: 90%;
+        } 
+ 
+
+        .presentation{
+              
+        }
+        
+
+        .sectionpadding{
+           padding-block: 120px;
+           padding-inline: 24px;
+           padding-block: 30px;
+        }
+
+        .container{
+            max-width:1080px;
+            margin: auto;
+        }
+
+      
+
 
        
